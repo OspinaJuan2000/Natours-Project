@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compilesass": "node-sass ./docs/sass/main.scss ./docs/css/style.css -w"
+    "compilesass": "node-sass docs/sass/main.scss docs/css/style.css -w"
   },
   "keywords": [],
   "author": "Juan Ospina",
